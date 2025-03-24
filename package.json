@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-auth-app",
+  "version": "1.0.0",
+  "description": "A Next.js application with protected authentication routes.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "12.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "next-auth": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
